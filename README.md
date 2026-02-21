@@ -38,6 +38,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ProductiveCoderX&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProductiveCoderX&theme=dark&hide_border=true&layout=compact)
----
-
-[![](https://visitcount.itsvg.in/api?id=ProductiveCoderX&icon=0&color=0)](https://visitcount.itsvg.in)
