@@ -1,10 +1,11 @@
 # 💫 About Me:
+
 ⚙️ An engineering student with a strong interest in understanding how intelligent systems are designed and integrated — from mechanical structures and electrical circuits to algorithms and artificial intelligence.<br><br>🧠 Approaches learning with a systems-first mindset. Rather than viewing subjects as isolated fields, he connects mechanical engineering, electronics, AI, and software into a unified technological framework.<br><br>🔬 Actively experiments and builds projects to strengthen architectural thinking and practical problem-solving. Each project is treated as an opportunity to understand underlying logic, system behavior, and structural design principles.<br><br>🚀 Currently exploring:<br><br>Artificial Intelligence & Machine Learning<br><br>Robotics & Automation<br><br>Control Systems<br><br>Embedded & Hardware Systems<br><br>Scalable Software Architecture<br><br>📈 Committed to disciplined growth, long-term mastery, and strong technical foundations. Values depth, clarity, and precision over shortcuts or surface-level knowledge.<br><br>🎯 Long-term direction:<br>To develop cross-domain engineering expertise and design intelligent, reliable systems that are architecturally sound and technically precise.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%20E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamtheonlygenius) 
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iamtheonlygenius)
 # 💻 Tech Stack:
 
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/terminal/)
@@ -31,15 +32,12 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ProductiveCoderX&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ProductiveCoderX&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProductiveCoderX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ProductiveCoderX&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=ProductiveCoderX&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=ProductiveCoderX&theme=dark&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProductiveCoderX&theme=dark&hide_border=true&layout=compact)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ProductiveCoderX&icon=0&color=0)](https://visitcount.itsvg.in)
