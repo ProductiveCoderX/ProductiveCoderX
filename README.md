@@ -1,96 +1,21 @@
 # 💫 About Me:
-# Abdul Rahman  
+⚙️ An engineering student with a strong interest in understanding how intelligent systems are designed and integrated — from mechanical structures and electrical circuits to algorithms and artificial intelligence.<br><br>🧠 Approaches learning with a systems-first mindset. Rather than viewing subjects as isolated fields, he connects mechanical engineering, electronics, AI, and software into a unified technological framework.<br><br>🔬 Actively experiments and builds projects to strengthen architectural thinking and practical problem-solving. Each project is treated as an opportunity to understand underlying logic, system behavior, and structural design principles.<br><br>🚀 Currently exploring:<br><br>Artificial Intelligence & Machine Learning<br><br>Robotics & Automation<br><br>Control Systems<br><br>Embedded & Hardware Systems<br><br>Scalable Software Architecture<br><br>📈 Committed to disciplined growth, long-term mastery, and strong technical foundations. Values depth, clarity, and precision over shortcuts or surface-level knowledge.<br><br>🎯 Long-term direction:<br>To develop cross-domain engineering expertise and design intelligent, reliable systems that are architecturally sound and technically precise.
 
-Engineering Student | AI & Systems Enthusiast | Builder in Progress  
 
----
-
-## About Me  
-
-I am a 19-year-old engineering student driven by curiosity about how complex systems work — from machines and electrical circuits to algorithms and artificial intelligence.  
-
-I approach learning with a systems mindset. Instead of treating subjects as isolated topics, I connect mechanical engineering, electrical systems, AI, and software into one integrated technological framework.  
-
-I am continuously learning, experimenting, and refining my understanding — with structure, discipline, and long-term vision.  
-
----
-
-## Current Focus  
-
-- Artificial Intelligence & Machine Learning  
-- Robotics & Automation  
-- Control Systems  
-- Embedded & Hardware Systems  
-- Software Architecture Fundamentals  
-- Logical System Design  
-
----
-
-## Projects & Experiments  
-
-- Building AI assistant systems with persistent memory  
-- Designing modular chatbot architectures (Flask + Python)  
-- Developing an AI chess system that mimics human play style  
-- Creating structured automation tools  
-- Exploring model organization and logical AI separation  
-
-Each project strengthens my ability to think architecturally and build systematically.  
-
----
-
-## Technical Skills  
-
-**Languages**  
-- Python  
-- JavaScript  
-- TypeScript  
-- HTML  
-
-**Tools & Frameworks**  
-- Flask  
-- Express.js  
-- EJS  
-- Git & GitHub  
-- NPM  
-- PyTorch (learning)  
-- FFmpeg (local integration)  
-
----
-
-## Thinking Approach  
-
-- Systems-first mindset  
-- Long-term orientation  
-- Analytical and structured learning  
-- Continuous self-improvement  
-- Focus on building strong foundations  
-
----
-
-## Long-Term Vision  
-
-- Build advanced AI systems  
-- Integrate robotics with intelligent decision-making  
-- Develop cross-domain engineering expertise  
-- Design scalable, structured technological architectures  
-
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamtheonlygenius) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-
----
-
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ProductiveCoderX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ProductiveCoderX&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProductiveCoderX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ProductiveCoderX&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ProductiveCoderX&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProductiveCoderX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ProductiveCoderX&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
