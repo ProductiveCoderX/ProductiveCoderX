@@ -1,12 +1,34 @@
-# 💫 About Me:
+# Abdul
 
-⚙️ An engineering student with a strong interest in understanding how intelligent systems are designed and integrated — from mechanical structures and electrical circuits to algorithms and artificial intelligence.<br><br>🧠 Approaches learning with a systems-first mindset. Rather than viewing subjects as isolated fields, he connects mechanical engineering, electronics, AI, and software into a unified technological framework.<br><br>🔬 Actively experiments and builds projects to strengthen architectural thinking and practical problem-solving. Each project is treated as an opportunity to understand underlying logic, system behavior, and structural design principles.<br><br>🚀 Currently exploring:<br><br>Artificial Intelligence & Machine Learning<br><br>Robotics & Automation<br><br>Control Systems<br><br>Embedded & Hardware Systems<br><br>Scalable Software Architecture<br><br>📈 Committed to disciplined growth, long-term mastery, and strong technical foundations. Values depth, clarity, and precision over shortcuts or surface-level knowledge.<br><br>🎯 Long-term direction:<br>To develop cross-domain engineering expertise and design intelligent, reliable systems that are architecturally sound and technically precise.
+### Systems-minded engineering student building intelligent, reliable technology
 
+I’m an engineering student focused on understanding how complex systems are designed, connected, and made dependable across software, electronics, automation, and artificial intelligence.
 
-## 🌐 Socials:
+I approach learning with a systems-first mindset. Instead of treating disciplines like software, AI, control systems, electronics, and mechanical engineering as separate areas, I try to understand how they interact as parts of one larger technological structure.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iamtheonlygenius)
-# 💻 Tech Stack:
+I build projects to strengthen architectural thinking, practical problem-solving, and technical depth. For me, every project is more than just code or hardware — it is a way to study system behavior, design tradeoffs, integration logic, and long-term maintainability.
+
+## Current Focus
+
+- Artificial Intelligence & Machine Learning
+- Robotics & Automation
+- Control Systems
+- Embedded & Hardware Systems
+- Scalable Software Architecture
+
+## What Drives Me
+
+- Strong architectural thinking
+- Cross-domain engineering understanding
+- Disciplined technical growth
+- Depth over shortcuts
+- Precision over surface-level learning
+
+## Long-Term Direction
+
+To develop deep cross-domain engineering expertise and build intelligent systems that are reliable, architecturally sound, and technically precise.
+
+## Tech Stack
 
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/terminal/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -31,7 +53,12 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-# 📊 GitHub Stats:
+
+## Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iamtheonlygenius)
+
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ProductiveCoderX&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
