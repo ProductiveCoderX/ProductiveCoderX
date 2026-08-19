@@ -56,7 +56,7 @@ To develop deep cross-domain engineering expertise and build intelligent systems
 
 ## Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iamtheonlygenius)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ProductiveCoderx)
 
 ## GitHub Stats
 
